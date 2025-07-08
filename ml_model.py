@@ -5,3 +5,6 @@ def model1():
 
 def model2():
     print("adding the code for ML mpdel 2")    
+
+
+print("Model 2 is performing the best")    
